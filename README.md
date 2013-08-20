@@ -68,3 +68,9 @@ Recommend books for me to read!
     <td>unread</td>
   </tr>
 </table>
+
+## Recently read
+* Ender's Game - OSC
+* Lost Boys - OSC
+* The Great Gatsby - F. Scott Fitzgerald
+* The Foundation Series - Isaac Asimov
