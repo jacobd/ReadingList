@@ -70,6 +70,17 @@ Recommend books for me to read!
 </table>
 
 ## Recently read
+* Death by Black Hole - Neil deGrasse Tyson
+* Robinson Crusoe - Daniel Defoe
+* Ender in Exile - OSC
+* Shadows in Flight - OSC
+* Shadow of the Giant - OSC
+* Shadow Pupperts - OSC
+* Shadow of the Hegemon - OSC
+* Ender's Shadow - OSC
+* Children of the Mind - OSC
+* Xenocide - OSC
+* Speaker for the Dead - OSC
 * Ender's Game - OSC
 * Lost Boys - OSC
 * The Great Gatsby - F. Scott Fitzgerald
