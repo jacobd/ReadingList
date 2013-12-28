@@ -70,6 +70,7 @@ Recommend books for me to read!
 </table>
 
 ## Recently read
+* The Art of War - Sun Tzu
 * Death by Black Hole - Neil deGrasse Tyson
 * Robinson Crusoe - Daniel Defoe
 * Ender in Exile - OSC
